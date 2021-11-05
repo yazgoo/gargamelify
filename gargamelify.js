@@ -6,8 +6,8 @@ function gargamelify(item) {
   // Replace in body
   while (textNode = walk.nextNode()) {
     textNode.nodeValue = textNode.nodeValue
-      .replace(/d'([EÉeé]ric *)?[Zz]emmour/g, 'de Gargamel')
-        .replace(/qu'([EÉeé]ric *)?[Zz]emmour/g, 'que Gargamel')
+      .replace(/d[’'ʼ]([EÉeé]ric *)?[Zz]emmour/g, 'de Gargamel')
+        .replace(/qu[’'ʼ]([EÉeé]ric *)?[Zz]emmour/g, 'que Gargamel')
           .replace(/([EÉeé]ric *)?[Zz]emmour/g, 'Gargamel');
         }
 
