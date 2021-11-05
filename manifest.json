@@ -2,9 +2,13 @@
 
   "manifest_version": 2,
   "name": "Gargamelify",
-  "version": "0.2",
+  "version": "0.3",
 
   "description": "Replace he who must not be named with Gargamel ",
+
+  "icons": {
+    "48": "icons/gargamelify-48.png"
+  },
 
   "content_scripts": [
     {
