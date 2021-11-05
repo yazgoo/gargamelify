@@ -9,3 +9,7 @@ Replace he who must not be named with Gargamel
 # installing from github
 
 go to [releases](https://github.com/yazgoo/gargamelify/releases) and download `xpi` file. 
+
+# screenshot
+
+![screenshot](https://raw.githubusercontent.com/yazgoo/gargamelify/screenshot/screenshot.png)
